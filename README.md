@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a small game in C.<br>🌱 I’m currently learning C.<br>🌱 I’m studying at  IG2I, CentraleLille.
+🔭 I’m currently developping a posemeter in C and Python (and later with a Web interface).<br>🌱 I’m currently learning C.<br>🌱 I’m studying at  IG2I, CentraleLille.
 
 
 ## 🌐 Socials:
