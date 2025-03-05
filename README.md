@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developping a posemeter in C and Python (and later with a Web interface).<br>🌱 I’m currently learning Java.<br>🌱 I’m studying at IG2I, CentraleLille.
+🔭 I’m currently developping a posemeter in C and Python (and later with a Web interface).<br>🌱 I’m currently learning Java.<br>🌱 I’m studying at IG2I, an internal school of Centrale Lille Institut.
 
 
 ## 🌐 Socials:
